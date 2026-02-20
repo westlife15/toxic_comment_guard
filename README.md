@@ -28,6 +28,7 @@ Deployment: Streamlit (Web App)
 
 Dataset
 The model was trained on the Jigsaw Toxic Comment Classification Challenge dataset.
+(https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge)
 
 Source: Wikipedia Talk labels.
 
